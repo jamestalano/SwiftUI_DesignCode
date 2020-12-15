@@ -1,6 +1,6 @@
 # DesignCode
 
-<img src="https://github.com/mythxn/DesignCode-SwiftUI/blob/master/preview.gif" height=450><img src="https://i.imgur.com/N9HfWdD.png" height=450>
+<img src="https://github.com/jamestalano/SwiftUI_DesignCode/blob/main/preview.gif" height=450><img src="https://i.imgur.com/N9HfWdD.png" height=450>
 
 DesignCode is an app fully built using Apple's latest SwiftUI and Combine framework.
 
